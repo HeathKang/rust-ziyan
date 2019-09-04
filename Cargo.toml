@@ -1,0 +1,7 @@
+[package]
+name = "ziyan"
+version = "0.1.0"
+authors = ["Heath Kang <heath.kang@foxmail.com>"]
+edition = "2018"
+
+[dependencies]
